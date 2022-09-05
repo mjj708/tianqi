@@ -1,0 +1,19 @@
+# 配置文件
+
+DAILY_TIME: "14:00" 
+
+#信息配置
+#和风天气APIKEY
+WEATHER_KEY:"e7f59986d2da4b6a9a9759d3efc76ad2"
+#天行数据APIKEY
+TIAN_API:"59e5f3938b851f954a73ff9fff5bc632"
+CITY: "台州"
+
+BIRTHDAY:
+  - "08-14"
+LOVE_DATE:"2022-07-08"
+NOTE-CH:我很喜欢你，像春去秋来，海棠花开。
+NOTE-EN:You are everything when you are with me,and everything is you  when you are not.
+
+APP_ID: "wx92ade3adb0d76e37"
+APP_SECRET: "975916cfdb7d03d411b351f8802c69b6"
